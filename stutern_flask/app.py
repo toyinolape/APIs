@@ -39,7 +39,6 @@ if __name__=="__main__":
     app.run(port=5003, debug=True)
 
 #Creating a Table 
-        tab = """CREATE TABLE auto (mpg REAL, cyl INTEGER, displ REEAL, hp INTEGER, weight INTEGER, accel REAL, yr DATE, origin TEXT, name TEXT)"""
+tab = """CREATE TABLE auto (mpg REAL, cyl INTEGER, displ REEAL, hp INTEGER, weight INTEGER, accel REAL, yr DATE, origin TEXT, name TEXT)"""
 
 
-        
