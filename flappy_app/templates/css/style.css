@@ -1,0 +1,91 @@
+body{
+    background-image: url('..\titanic.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+.regform{
+    width: 800px;
+    background-color: rgb(0,0,0,0.6);
+    margin: auto;
+    color: #fff;
+    padding: 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.main{
+    background-color: rgba(0,0,0,0.5);
+    width: 800px;
+    margin: auto;
+}
+
+form{
+    padding: 10px;
+}
+
+.name{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#age{
+    position: relative;
+    left: 300px;
+    line-height: 16px;
+    border-radius: 6px;
+    font-size: 16px;
+    color: black;
+
+}
+
+#sex{
+    position: relative;
+    left: 300px;
+    line-height: 20px;
+    border-radius: 6px;
+
+}
+
+#embarked{
+    position: relative;
+    left: 300px;
+    line-height: 20px;
+    border-radius: 6px;
+
+}
+
+button{
+    
+    border-radius: 12px;
+    background-color: #3baf9f;
+    display: inline-block;
+    margin: 20px 0px 0px 20px;
+    text-align: center;
+    border: 2px solid #366473;
+    padding: 10px 45px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    transition: 0.25px;
+    font-size: 24px;
+    font-weight: 700px;
+
+
+}
+
+
+.button{
+    text-align: center;
+    padding-top: 20px;
+}
+
+button:hover{
+    background-color: blue;
+}
