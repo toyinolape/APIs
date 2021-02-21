@@ -8,7 +8,8 @@ API stands for application programming interface. This is a concept in software 
 ### How API's Work
 To use an analogy here, we’ll compare this to ordering a drink at a bar. When you step up to the bar, you’re given a menu with several drinks listed. To look at this like an API, there’s an existing convention you can follow (i.e., the menu) to state your order and obtain a drink.
 
-The menu as it’s presented to you is the interface. All the drinks listed on the menu are what the bartender has agreed to serve. When you ask for a certain drink on the menu, you receive it. But if you ask for something off the menu, such as a vodka martini instead of a gin martini, the bartender can’t provide it because it’s not something they agreed to serve.
+The menu as it’s presented to y
+ou is the interface. All the drinks listed on the menu are what the bartender has agreed to serve. When you ask for a certain drink on the menu, you receive it. But if you ask for something off the menu, such as a vodka martini instead of a gin martini, the bartender can’t provide it because it’s not something they agreed to serve.
 
 Let’s say you want that gin martini delivered to your home. You call a delivery service and you order a martini that appears on the menu. When you order it, someone will tell the bartender your order, the bartender will make the martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (the menu).
 
